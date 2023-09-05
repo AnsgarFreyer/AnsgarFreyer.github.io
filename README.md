@@ -70,7 +70,7 @@ A-1040 Vienna, Austria.
 
 ## Email
 
-firstname.lastname<fancy-a>tuwien.ac.at
+firstname.lastname fancy-a tuwien.ac.at
 
 
    

@@ -70,7 +70,7 @@ A-1040 Vienna, Austria.
 
 ## Email
 
-![ansgar.freyer(email-a)tuwien.ac.at](email.pdf)
+![ansgar.freyer(email-a)tuwien.ac.at](email.png)
 
 
    

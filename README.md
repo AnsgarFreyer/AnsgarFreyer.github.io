@@ -39,7 +39,7 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
   Young Researchers Conference of the Royal Spanish Mathematical Society, Leon, 2023. [slides](/slides/slides_leon.pdf)
 
 - **Affine subspace concentration conditions for centered polytopes**
-  Probability and Analysis Webinar, online, 2022. [slides](/slides_paw.pdf)
+  Probability and Analysis Webinar, online, 2022. [slides](/slides/slides_paw.pdf)
 
 - **Von einsamen Läufern und verstellter Sicht**
   Tag der Mathematik, Berlin, 2022.

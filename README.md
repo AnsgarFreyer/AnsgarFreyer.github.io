@@ -11,36 +11,54 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 # Publications
 
 - **Lattice Reduced and Complete Convex Bodies**
-  
   jointly with Giulia Codenotti.
-  
   preprint. [arXiv](https://arxiv.org/abs/2307.09429)
 
 - **Polynomial Bounds in Koldobsky's Discrete Slicing Problem**
-  
   jointly with Martin Henk.
-  
   submitted (2023). [arXiv](https://arxiv.org/abs/2303.15976)
 
 - **Affine Subspace Concentration Conditions**
-  
   jointly with Martin Henk and Christian Kipp.
-  
   Mathematika, 69(2):458-472, 2023. [arXiv](https://arxiv.org/abs/2207.08477)
 
 - **Interpolating between volume and lattice point enumerator with successive minima**
-  
   jointly with Eduardo Lucas.
-  
   Monatshefte für Mathematik, 198:717–740, 2022. [arXiv](https://arxiv.org/abs/2105.13090)
 
 - **Bounds on the Lattice Point Enumerator via Slices and Projections**
-  
   jointly with Martin Henk.
-  
   Discrete and Computational Geometry 2022, 67:895-918. [arXiv](https://arxiv.org/abs/2004.14097)
 
+# Some Talks
 
+- **Tensor valuations on lattice polygons beyond Ehrhart coefficients**
+  Workshop on modern valuation theory, Jena, 2022.
+
+- **A unimodular theory of reduced and complete convex bodies**
+  Young Researchers Conference of the Royal Spanish Mathematical Society, Leon, 2023.
+
+- **Affine subspace concentration conditions for centered polytopes**
+  Probability and Analysis Webinar, online, 2022.
+
+- **Von einsamen Läufern und verstellter Sicht**
+  Tag der Mathematik, Berlin, 2022.
+
+- **Slicing problems in the geometry of numbers**
+  Combinatorical coworking space, Kleinwalsertal, 2022.
+
+- **Shaking a convex body in order to count its lattice points**
+  Facets of complexity colloqium, Berlin (online), 2022.
+
+- **Estimates for the lattice point enumerator involving hyperplane sections, volume and successive minima**
+   Seminario Rey Pastor, Murcia (online), 2021.
+
+- **Slicing- and successive minima type-inequalities for G(K)**
+   Current trends in convex geometry, Bremen (online), 2021.
+
+
+   
+  
 
 
 

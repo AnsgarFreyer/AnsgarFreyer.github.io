@@ -56,6 +56,21 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 - **Slicing- and successive minima type-inequalities for G(K)**
    Current trends in convex geometry, Bremen (online), 2021.
 
+# Contact
+## Address
+
+Institute of Discrete Mathematics and Geometry E104,
+
+Vienna University of Technology,
+
+Wiedner Hauptstraße 8-10, 
+
+A-1040 Vienna, Austria.
+
+## Email
+
+firstname.lastname<fancy-a>tuwien.ac.at
+
 
    
   

@@ -12,7 +12,7 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 
 - **Lattice Reduced and Complete Convex Bodies**
   jointly with Giulia Codenotti.
-  preprint. [arXiv](https://arxiv.org/abs/2307.09429)
+  submitted (2023). [arXiv](https://arxiv.org/abs/2307.09429)
 
 - **Polynomial Bounds in Koldobsky's Discrete Slicing Problem**
   jointly with Martin Henk.

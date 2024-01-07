@@ -16,7 +16,7 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 
 - **Polynomial Bounds in Koldobsky's Discrete Slicing Problem**
   jointly with Martin Henk.
-  submitted (2023). [arXiv](https://arxiv.org/abs/2303.15976)
+  to appear in Proceedings of the AMS. [arXiv](https://arxiv.org/abs/2303.15976)
 
 - **Affine Subspace Concentration Conditions**
   jointly with Martin Henk and Christian Kipp.

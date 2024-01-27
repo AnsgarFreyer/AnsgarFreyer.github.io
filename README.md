@@ -37,9 +37,6 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 - **Unimodular valuations beyond Ehrhart**
   Santander Workshop on Geometric and Algebraic Combinatorics, Santander, 2023. [slides](/slides/slides_santander.pdf)
 
-- **Tensor valuations on lattice polygons beyond Ehrhart coefficients**
-  Workshop on modern valuation theory, Jena, 2022. [slides](/slides/jena.pdf)
-
 - **A unimodular theory of reduced and complete convex bodies**
   Young Researchers Conference of the Royal Spanish Mathematical Society, Leon, 2023. [slides](/slides/slides_leon.pdf)
 
@@ -54,12 +51,6 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 
 - **Shaking a convex body in order to count its lattice points**
   Facets of complexity colloqium, Berlin (online), 2022.
-
-- **Estimates for the lattice point enumerator involving hyperplane sections, volume and successive minima**
-   Seminario Rey Pastor, Murcia (online), 2021.
-
-- **Slicing- and successive minima type-inequalities for G(K)**
-   Current trends in convex geometry, Bremen (online), 2021.
 
 # Contact
 

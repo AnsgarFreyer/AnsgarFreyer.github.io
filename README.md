@@ -1,4 +1,4 @@
-![Me at the Santander Workshop on Geometric and Algebraic Combinatorics](/me.jpeg)
+![Me at the Santander Workshop on Geometric and Algebraic Combinatorics](/me_small.jpeg)
 
 I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that I was a PhD student under the supervision of Martin Henk at TU Berlin. My research interests include
 
@@ -33,6 +33,9 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
   Discrete and Computational Geometry 2022, 67:895-918. [arXiv](https://arxiv.org/abs/2004.14097)
 
 # Some Talks
+
+- **Unimodular valuations beyond Ehrhart**
+  Santander Workshop on Geometric and Algebraic Combinatorics, Santander, 2023. [slides](/slides/slides_santander.pdf)
 
 - **Tensor valuations on lattice polygons beyond Ehrhart coefficients**
   Workshop on modern valuation theory, Jena, 2022. [slides](/slides/jena.pdf)

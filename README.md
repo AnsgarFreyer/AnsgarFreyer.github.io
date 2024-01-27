@@ -1,3 +1,5 @@
+![Me at the Santander Workshop on Geometric and Algebraic Combinatorics](/me.jpeg)
+
 I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that I was a PhD student under the supervision of Martin Henk at TU Berlin. My research interests include
 
 - Convex geometry,

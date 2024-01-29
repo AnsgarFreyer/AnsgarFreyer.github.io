@@ -35,7 +35,7 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 # Some Talks
 
 - **Unimodular valuations beyond Ehrhart**
-  Santander Workshop on Geometric and Algebraic Combinatorics, Santander, 2023. [slides](/slides/slides_santander.pdf)
+  Santander Workshop on Geometric and Algebraic Combinatorics, Santander, 2024. [slides](/slides/slides_santander.pdf)
 
 - **A unimodular theory of reduced and complete convex bodies**
   Young Researchers Conference of the Royal Spanish Mathematical Society, Leon, 2023. [slides](/slides/slides_leon.pdf)

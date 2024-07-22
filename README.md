@@ -12,13 +12,17 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 
 # Publications
 
+- **Unimodular valuations beyond Ehrhart**
+  jointly with Monika Ludwig and Martin Rubey.
+  preprint. [arXiv](https://arxiv.org/abs/2407.07691)
+
 - **Lattice Reduced and Complete Convex Bodies**
   jointly with Giulia Codenotti.
-  submitted (2023). [arXiv](https://arxiv.org/abs/2307.09429)
+  to appear in Journal of the LMS. [arXiv](https://arxiv.org/abs/2307.09429)
 
 - **Polynomial Bounds in Koldobsky's Discrete Slicing Problem**
   jointly with Martin Henk.
-  to appear in Proceedings of the AMS. [arXiv](https://arxiv.org/abs/2303.15976)
+  Proceedings of the AMS, 152:3063-3074, 2024. [arXiv](https://arxiv.org/abs/2303.15976)
 
 - **Affine Subspace Concentration Conditions**
   jointly with Martin Henk and Christian Kipp.

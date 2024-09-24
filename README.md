@@ -10,7 +10,11 @@ I am a postdoc assistant in the group of Monika Ludwig at TU Vienna. Before that
 
 - Spherical and hyperbolic geometry.
 
-# Publications
+# Publications and preprints
+
+- **The affine subspace concentration inequality for centered convex bodies**
+  jointly with Katharina Eller.
+  preprint. [arXiv](https://arxiv.org/abs/2407.17799)
 
 - **Unimodular valuations beyond Ehrhart**
   jointly with Monika Ludwig and Martin Rubey.

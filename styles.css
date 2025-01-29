@@ -1,0 +1,98 @@
+/* body */
+body {
+	background-color:black;
+	color:white;
+	font-family:'Arial';
+	text-align:justify;
+	margin-left:13.5%;
+	margin-right:27%;
+	margin-top:30px;
+	margin-bottom:60px;
+}
+
+h1 { color: #99ccff; }
+h2 { color: #99ccff; }
+h3 { color: #99ccff; }
+
+
+li { margin: 10px 0; }
+
+/* links */
+a:link {
+  	color: #a3a3c2;
+  	background-color: transparent;
+  	text-decoration: none;
+}
+
+a:visited {
+	color: #a3a3c2;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #a3a3c2;
+	background-color: transparent;
+	text-decoration: underline;
+}
+	
+a:active {
+	 color: #a3a3c2;
+	 background-color: transparent;
+	 text-decoration: underline;
+}
+			
+* {
+	  box-sizing: border-box;
+}
+
+
+
+
+/* rows and columns */
+.column {
+	float: left;
+	width: 50%;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+
+.topnav {
+  background-color: gray;
+  overflow: hidden;
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #cce6ff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}	

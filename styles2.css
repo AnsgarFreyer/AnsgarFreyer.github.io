@@ -66,6 +66,12 @@ a:active {
 	padding: 10px;
 }
 
+.newspaper {
+	column-count: 3;
+	column-width: 30%;
+}
+
+
 
 .topnav {
   background-color: gray;
@@ -95,10 +101,38 @@ a:active {
   color: white;
 }
 
+figure {
+  text-align: right;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  color: black;
+  padding: 2px;
+  text-align: right;
+  font-size: 12px;
+}
+
 @media only screen and (max-width: 600px) {
   body{
   	margin-left:5%;
   	margin-right:5%;
+  	text-align:left;
+  }
+  
+    .column {
+    width: 100%;
+    float: none;
+  }
+  
+  figure{
+  	text-align: left;
+  }
+  
+  .newspaper{
+  	column-width: 100%;
+  	column-count:1;
   }
 }
 

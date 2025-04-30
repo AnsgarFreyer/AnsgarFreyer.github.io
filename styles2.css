@@ -130,6 +130,10 @@ figcaption {
   	text-align: left;
   }
   
+  figcaption{
+  	text-align: left;
+  }
+  
   .newspaper{
   	column-width: 100%;
   	column-count:1;

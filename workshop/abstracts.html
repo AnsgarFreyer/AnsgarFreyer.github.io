@@ -3,6 +3,17 @@
 	<head>
 		<title>Abstracts</title>
   		<link rel="stylesheet" href="../styles2.css">
+  		
+  		 <script>
+    MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
 	</head>
 	
 	
@@ -14,11 +25,188 @@
 			<a href="abstracts.html">Abstracts</a>
 		</div>
 		
-		<h3> Abstracts </h3>
+		<h1> Lectures </h1>
+	
+		<h2>Invitation to Toric Varieties</h2>
+		<h2 style="color : #99ccff">Christian Haase</h2>
+
+<ul>
+
+<li> "The study of toric varieties is a wonderful part of algebraic geometry." </li>
+<li>  "Toric varieties are arguably the simplest and most accessible varieties.
+   They often appear in applications, both within mathematics and across
+   the sciences." </li>
+<li> "There are elegant theorems and deep connections with polytopes,
+   polyhedra, combinatorics, commutative algebra, symplectic geometry,
+   and topology. Toric varieties also have unexpected applications in
+   areas as diverse as physics, coding theory, algebraic statistics, and
+   geometric modeling." </li>
+<li> ... and optimization. </li>
+<li>  ... and, of course, Geometry of Numbers. </li>
+</ul>
+	
+<p>
+I cannot express it any better.
+</p>
+
+<p>
+In this mini-course, I will try to show many examples of toric
+varieties occurring in nature, and explain a few entries of the toric
+dictionary which translates between algebra and convex combinatorics.
+I will rely on everybody's active participation to figure out where
+the emphasis of the course should be, how I can convince You that
+toric varieties are worth Your while. So be sure to have graph paper
+and pens in at least three colors ready.
+</p>
+
+<p>
+There will be exercises of wildly varying difficulty. I will not have
+time for proofs, but if you want to know more about one of the
+arguments hinted at in the lecture, there will be an exercise for
+you.
+  </p>
 		
-		<p>
-		The abstracts of the research talks, mini courses and posters will be available here in due time.
-		</p>
+<p>
+<a href="toric_quotes.html">[The above quotes in full]</a>
+</p>	
+		
+		<h2>The MM*-estimate and its role in the High Dimensional Geometry and Geometry of Numbers</h2>
+		<h2 style="color : #99ccff">Alexander Litvak</h2>
+  <p>
+    Given a convex body $K$ in $R^n$ with $0$ in its interior, the parameter $M_K$ is the average of the Minkowski functional of $K$ on the Euclidean unit sphere. This parameter played a crucial role in Milman's version of the Dvoretzky theorem and other results of Asymptotic Geometric Analysis. Furthermore, in many applications it is important to control the product of $M_K$ and $M_{K^0}$, where $K^0$ is the polar of $K$. By $MM^*(K)$ we denote the minimum of $M_{TK} M_{(TK)^0}$ over all affine transformations of $K$. In this mini-course we discuss the best known bounds on $MM^*$ and show several applications, in particular to Milman's Subspace-Quotient Theorem, to a weaker version of the inverse Santaló inequality, to the Banach-Mazur distance between two convex bodies, and to the Flatness theorem in Geometry of Numbers.
+  </p>
+  
+ <hr>
+ 
+ <h1>Research Talks</h1>
+ 
+ </hr> 
+ 
+   <div id="aliev">
+ 		<h2>Geometry of Numbers in Mathematical Optimisation: Proximity and Sparsity of Lattice Points in Rational Polyhedra</h2>
+		<h2 style="color : #99ccff">Iskander Aliev</h2>
+  <p>
+We will discuss recent applications of Minkowski’s geometry of numbers in mathematical optimisation, focusing on lattice (=integer) points in a rational polyhedron $P = \{x: A x = b,~ x\text{ nonnegative}\}$, where $A$ is an integer matrix and $b$ an integer vector. First, we will consider the proximity-type results: given a vertex $v$ of the polyhedron $P$, we seek a reasonably good approximation of $v$ by a lattice point in $P$,  with the approximation quality measured in terms of certain parameters of $A$. Second, we will consider the sparsity of lattice points. A central question here is to estimate the smallest possible support size of a lattice point in $P$. We will show how tools from Minkowski’s geometry of numbers yield new results in both proximity and sparsity settings, and we will highlight recent transference bounds that reveal strong connections between the two areas.
+</p>
+</div>
+ 
+  <div id="bach">
+ 		<h2>On the complexity of the simplex method</h2>
+		<h2 style="color : #99ccff">Eleon Bach</h2>
+  <p>
+Linear programming (LP) problems arise in innumerable
+industrial contexts and are used in a vast range of optimization algorithms.
+
+The simplex method is one of the most popular algorithms for solving LPs. Even though the simplex method behaves notably well in practice, as its running time is usually linear in the input size, for many pivot rules exponential lower bounds are known. Ever since these exponential lower bounds were found, there has been tremendous work in order to show why the simplex method works so well in practice. 
+
+In this talk we discuss challenges and recent advances in the analysis of the simplex method (and generalizations of it), from worst case analysis to smoothed analysis and beyond.  
+</p>
+</div>	
+
+  <div id="brose">
+ 		<h2>On Lattice Diameter Segments</h2>
+		<h2 style="color : #99ccff">Anouk Brose</h2>
+  <p>
+The lattice diameter of a bounded set S measures the maximal number of lattice points in a segment whose endpoints are lattice points in S. Such a segment is called a lattice diameter segment of S. This simple invariant yields interesting applications and challenges. We describe a polynomial-time algorithm that computes lattice diameter segments of lattice polygons and show that computing lattice diameters of semi-algebraic sets in dimensions three and higher is NP-hard. We study the function that counts lattice diameter segments in dilations of a lattice polygon and show that it eventually agrees with a quasi-polynomial in the dilation factor. We also study the number of directions that lattice diameter segments can have. Finally, we prove a Borsuk-type theorem on the number of parts needed to partition a set of lattice points such that each part has strictly smaller lattice diameter.
+</p>
+</div>	
+
+  <div id="de_courcy">
+ 		<h2>Minkowski v. median</h2>
+		<h2 style="color : #99ccff">Matthew de Courcy-Ireland</h2>
+  <p>
+This talk is based on joint work in progress with Anders Södergren. We discuss how the Minkowski bound compares to the median density of a random lattice packing (where it is equally likely to be less dense or more dense than the median).
+
+Sphere packings of density $2^{-n}$ in $n$-dimensional Euclidean space can be easily produced by a greedy algorithm. Such densities can even be achieved by lattice packings, as shown by Minkowski. Indeed, for a random lattice sampled from the invariant measure, the median density is at least the Minkowski bound. Lattices of much higher density have been shown to exist, with a recent breakthrough by Klartag leading to the current record. The proofs of this and earlier improvements are probabilistic, but they use different random models beyond uniformly sampling the space of lattices. It is still unclear how rare these high-density events are according to the original Minkowski measure, and how much higher density could be achieved by non-lattice packings.
+</p>
+</div>	
+ 
+ <div id="deligeorgaki">
+ 		<h2>Colored multiset Eulerian polynomials via products of simplices</h2>
+		<h2 style="color : #99ccff">Danai Deligeorgaki</h2>
+  <p>
+This talk explores a family of polynomials arising from descent statistics on colored permutations of multisets. These  objects generalize the colored Eulerian polynomials that appear frequently in algebraic combinatorics and are known to admit desirable distributional properties, including real-rootedness, log-concavity, unimodality and the alternatingly increasing property. In joint work with Bin Han and Liam Solus, we prove that a large class of colored multiset Eulerian polynomials obtains all of the aforementioned distributional properties as well as others, including bi-gamma-positivity. The proof relies on a connection to convex polytopes: colored multiset Eulerian polynomials arise in lattice point enumeration considerations for products of simplices, enabling the use of polyhedral methods to establish our results.
+</p>
+</div>	
+
+ <div id="faulhuber">
+ 		<h2>Point configuration problems in low dimensions</h2>
+		<h2 style="color : #99ccff">Markus Faulhuber</h2>
+  <p>
+ In this talk, we will discuss problems about optimal point configurations in low dimensions. These may arise, e.g., from the areas of sampling theory, crystallization, or energy minimization. While often we have clear candidates for an optimal solution, showing that a certain point configuration is indeed optimal is usually a hard task. A main result we will discuss is the optimality of the hexagonal lattice for the "polarization problem" and some of its consequences.
+</p>
+</div>	
+	
+ <div id="han">
+ 		<h2>Packing minima of convex bodies</h2>
+		<h2 style="color : #99ccff">Mei Han</h2>
+  <p>
+ In 2021, Henk, Schymura and Xue introduced packing minima, associated with a convex body and a lattice, as packing counterparts to the covering minima of Kannan and Lovász. Motivated by conjectures on inequalities for the successive minima, we introduce a refined definition of packing minima for the convex body with centroid at the origin in this talk. For these packing minima, we present novel volume inequalities. This work is joint with Martin Henk and Fei Xue.
+</p>
+</div>		
+
+  <div id="hofscheier">
+ 		<h2>Generalised Flatness Constants</h2>
+		<h2 style="color : #99ccff">Johannes Hofscheier</h2>
+  <p>
+ The classical flatness constant is the maximal lattice width of lattice-free convex bodies in a fixed dimension. In this talk, we will discuss generalised flatness constants: the maximal lattice width of convex bodies (in a fixed dimension) that do not contain any image of a fixed set under a specified group of transformations. When the fixed set is a single lattice point and transformations are affine unimodular, we recover the classical flatness constant. However, varying the fixed set and transformation group yields "generalised flatness constants" that provide bounds for problems in discrete geometry, symplectic geometry, and beyond. In the talk, we will use these constants to bound the maximal width of non-spanning lattice polytopes, the Gromov width in symplectic geometry, and the minimal size of lattice generating sets contained in spanning lattice polytopes. We will conclude with an overview which generalised flatness constants are known.
+</p>
+<p>
+This is joint work with Gennadiy Averkov, Giulia Codenotti, Thomas Hall, and Benjamin Nill.
+</p>
+</div>	
+	
+  <div id="kurylenko">
+ 		<h2>Thin Lattice Simplices</h2>
+		<h2 style="color : #99ccff">Vadym Kurylenko</h2>
+  <p>
+A lattice simplex is called thin if its local $h^*$-polynomial vanishes, or equivalently, if the corresponding half-open parallelepiped has no interior points. This notion was first introduced by Gelfand, Kapranov, and Zelevinsky and was revisited more recently by Borger, Kretschmer, and Nill. In this talk, I will discuss how we can use coding theory and hyperplane arrangements over finite rings of integers mod n to give a complete classification of thin simplices in dimension four. I will also discuss spanning thin simplices, infinite families of thin simplices in higher dimensions, and a conjectural link between thinness and lattice width. 
+</p>
+</div>
+ 
+ <div id="moustrou">
+ 		<h2>Polarization of lattices: stable cold spots and spherical designs</h2>
+		<h2 style="color : #99ccff">Philippe Moustrou</h2>
+  <p>
+We consider the problem of finding the minimum of inhomogeneous Gaussian lattice sums: Given a lattice $L$ in an $n$-dimensional Euclidean space $V$ and a positive constant $a$, the goal is to find the points $z$ in $V$ that minimize the sum of the potential $\exp(-a ||x - z||^2)$ over all the points $x$ in $L$.
+By a result of Bétermin and Petrache, it is known that for steep potential energy functions (when a tends to infinity) the minimum in the limit goes to a deep hole of the lattice.
+The goal of this talk is to strengthen this result for lattices with a lot of symmetries: We prove that the deep holes of root lattices are already the exact minimizers for all $a>a_0$ for some finite $a_0$. Moreover, we prove that such a stability result can only occur for lattices with strong algebraic structure.
+<p>
+
+<p>
+After introducing the problem, we will discuss how to design and solve exactly an LP bound for spherical designs, which allows to prove that the deep holes are local minimizers.
+The end of the argument follows from a covering argument involving a precise control of the parameters around the lattice points.
+</p>
+
+<p>
+Joint work with C. Bachoc, F. Vallentin and M. Zimmermann
+</p>
+</div>	
+
+ <div id="schymura">
+ 		<h2>Linearly-exponential checking is enough for the Lonely Runner Conjecture</h2>
+		<h2 style="color : #99ccff">Matthias Schymura</h2>
+  <p>
+The Lonely Runner Conjecture (LRC) concerns n runners on a circular track of length 1 who start running from a common starting position with pairwise distinct constant velocities. The claim is that for each runner there is a certain point in time at which she is at distance at least $1/n$ from all the other runners on the track. Despite many efforts over the last sixty years the conjecture is only proven for up to 7 runners to date. Tao (2018) showed that in order to prove LRC for up to $n+1$ runners it suffices to consider positive integer velocities in the order of $n^{O(n^2)}$. Based on a zonotopal reinterpretation of the conjecture, we employ tools from the geometry of numbers and drastically improve Tao's result, showing that velocities up to $n^{2n}$ are enough to check.
+We further obtain the same finite-checking result for the more general shifted Lonely Runner Conjecture -- except depending on the solution of a question about sumsets of $n$ rational vectors in the plane -- and we discuss a further generalization concerning what we call cosimple zonotopes.
+</p>
+<p>
+The talk is based on joint work with Romanos Malikiosis and Francisco Santos.
+</p>
+</div>	
+
+ <div id="van_woerden">
+ 		<h2>The lattice packing problem in dimension 9 by Voronoi’s algorithm</h2>
+		<h2 style="color : #99ccff">Wessel van Woerden</h2>
+  <p>
+In 1908 Voronoi introduced an algorithm that solves the lattice packing problem in any dimension in finite time. Voronoi showed that any lattice with optimal packing density must be a so-called perfect lattice, and his algorithm enumerates the finitely many perfect lattices up to similarity in a fixed dimension. However, due to the high complexity of the algorithm this enumeration had, until now, only been completed up to dimension 8. 
+
+In this talk we will present our work on a full enumeration of all 2,237,251,040 perfect lattices in dimension 9 via Voronoi's algorithm. As a corollary, this shows that the laminated lattice $\Lambda_9$ gives the densest lattice packing in dimension 9. We will discuss Voronoi's algorithm and the many algorithmic, implementation, and parallelization efforts that were required for this computation to succeed.
+This is joint work with Mathieu Dutour Sikirić.
+</p>
+</div>	
+
+		
 		
 		<br>
 		

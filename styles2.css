@@ -9,7 +9,7 @@ body {
 	margin-bottom:60px;
 }
 
-h1 { color: #99ccff; }
+h1 { color: black; }
 h2 { color: black; }
 h3 { color: black; }
 
@@ -171,3 +171,6 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+
+
